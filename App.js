@@ -1,3 +1,13 @@
+/*
+* File: App.js
+* Author: Zentai Pál
+* Copyright: 2023, Zentai Pál
+* Group: Szoft-II-N
+* Date: 2023-03-27
+* Github: https://github.com/Pali002/
+* Licenc: GNU GPL
+*/
+
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
 
