@@ -15,7 +15,7 @@ const Button = (props) => {
   return (
 
     <TouchableHighlight style={styles.button} onPress={props.onPress}>
-        <Text style={styles.btnText}>Számít</Text>
+        <Text style={styles.buttonText}>Számít</Text>
     </TouchableHighlight>
   )
 }
@@ -31,7 +31,7 @@ const styles = StyleSheet.create({
         width: '15%',
         textAlign: 'center',
     },
-    btnText: {
+    buttonText: {
         color: 'white',
         fontSize: 20,
     }

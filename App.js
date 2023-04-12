@@ -52,9 +52,11 @@ export default function App() {
         
       </View>
 
-        <Text style={styles.about}>
-          Zentai Pál, Szoft-II-N, 2023-03-27
-        </Text>
+        <View>
+          <Text style={styles.about}>
+            Zentai Pál, Szoft-II-N, 2023-04-12
+          </Text>
+        </View>
 
     </View>
   );
