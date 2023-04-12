@@ -3,7 +3,7 @@
 * Author: Zentai Pál
 * Copyright: 2023, Zentai Pál
 * Group: Szoft-II-N
-* Date: 2023-03-27
+* Date: 2023-04-12
 * Github: https://github.com/Pali002/
 * Licenc: GNU GPL
 */
